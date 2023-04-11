@@ -120,7 +120,7 @@ def atualizar_nota():
             salvar_alunos(alunos)
             print("Notas atualizadas com sucesso!")
             return
-    print("Aluno não encontrado.")
+    print("Aluno não encontrado.") 
 
 
 
