@@ -1,0 +1,74 @@
+[{
+        "nome": "teste",
+        "sobrenome": "teste",
+        "idade": 32,
+        "cpf": "31232132112",
+        "curso": "web design",
+        "notas": [
+            10.0,
+            0.0,
+            2.0,
+            1.0
+        ],
+        "media": 3.25
+    },
+    {
+        "nome": "a",
+        "sobrenome": "b",
+        "idade": 32,
+        "cpf": "12312312312",
+        "curso": "robotica",
+        "notas": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "nome": "a",
+        "sobrenome": "b",
+        "idade": 3213122321,
+        "cpf": "32132132112",
+        "curso": "excel",
+        "notas": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "nome": "w",
+        "sobrenome": "e",
+        "idade": 21,
+        "cpf": "12312312312",
+        "curso": "excel",
+        "notas": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "nome": "q",
+        "sobrenome": "w",
+        "idade": 32,
+        "cpf": "43242323432",
+        "curso": "robotica",
+        "notas": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "nome": "r",
+        "sobrenome": "e",
+        "idade": 21,
+        "cpf": "12312312312",
+        "curso": "excel"
+    }
+]
