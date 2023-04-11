@@ -1,0 +1,107 @@
+[
+	{
+		"nome": "Lucas",
+		"sobrenome": "doiod",
+		"idade": "19",
+		"cpf": "12312312312",
+		"curso": "Web Design"
+	},
+	{
+		"nome": "Joao",
+		"sobrenome": "Ornellas",
+		"idade": "19",
+		"cpf": "12345678910",
+		"curso": "Web Design"
+	},
+	{
+		"nome": "Maicon",
+		"sobrenome": "Douglas",
+		"idade": "19",
+		"cpf": "98765432110",
+		"curso": "Excel"
+	},
+	{
+		"nome": "Juscelino",
+		"sobrenome": "Kudecheque",
+		"idade": "89",
+		"cpf": "78945612379",
+		"curso": "Web Design"
+	},
+	{
+		"nome": "Rodrigo",
+		"sobrenome": "Paix\u00e3o",
+		"idade": "18",
+		"cpf": "97643125810",
+		"curso": "Excel"
+	},
+	{
+		"nome": "Davi",
+		"sobrenome": "Ferreira",
+		"idade": "8",
+		"cpf": "10101092834",
+		"curso": "Rob\u00f3tica"
+	},
+	{
+		"nome": "Juan",
+		"sobrenome": "Stone",
+		"idade": "18",
+		"cpf": "69696969696",
+		"curso": "Rob\u00f3tica"
+	},
+	{
+		"nome": "Claudinei",
+		"sobrenome": "Soares",
+		"idade": "79",
+		"cpf": "11111111111",
+		"curso": "Rob\u00f3tica"
+	},
+	{
+		"nome": "Matheus",
+		"sobrenome": "Soares",
+		"idade": "37",
+		"cpf": "22222222222",
+		"curso": "Programa\u00e7\u00e3o"
+	},
+	{
+		"nome": "Pablo",
+		"sobrenome": "Emilio",
+		"idade": "48",
+		"cpf": "42042042042",
+		"curso": "Rob\u00f3tica"
+	},
+	{
+		"nome": "Rolandinho",
+		"sobrenome": "Silveira",
+		"idade": "35",
+		"cpf": "12345678911",
+		"curso": "Programa\u00e7\u00e3o"
+	},
+	{
+		"nome": "bruno",
+		"sobrenome": "foioq",
+		"idade": "23",
+		"cpf": "32132132132",
+		"curso": "Excel"
+	},
+	{
+		"nome": "Josias",
+		"sobrenome": "Macedo",
+		"idade": "74",
+		"cpf": "99999999999",
+		"curso": "Web Design"
+	},
+	{
+		"nome": "davi",
+		"sobrenome": "magrin",
+		"idade": "19",
+		"cpf": "33333333333",
+		"curso": "Web Design"
+	},
+	{
+		"nome": "juan",
+		"sobrenome": "magrin",
+		"idade": "91",
+		"cpf": "55555555555",
+		"curso": "Excel"
+	}
+]
